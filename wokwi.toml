@@ -1,0 +1,8 @@
+[wokwi]
+version = 1
+elf = 'test/logic/build/arduino.avr.uno/logic.ino.elf'
+firmware = 'test/logic/build/arduino.avr.uno/logic.ino.hex'
+
+[[chip]]
+name = 'sn74s51'
+binary = 'dist/chip.wasm'

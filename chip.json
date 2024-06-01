@@ -1,0 +1,22 @@
+{
+  "name": "sn74s51",
+  "docs": "https://github.com/wokwi-custom-chips/sn74s51/blob/main/docs/README.md",
+  "author": "algovoid",
+  "pins": [
+    "1A",
+    "2A",
+    "2B",
+    "2C",
+    "2D",
+    "2Y",
+    "GND",
+    "1Y",
+    "1C",
+    "1D",
+    "NU",    
+    "NU",
+    "1B",
+    "VCC"
+  ],
+  "controls": []
+}

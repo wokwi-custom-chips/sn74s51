@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "wokwi.wokwi-vscode",
+    "ms-vscode.makefile-tools",
+    "vsciot-vscode.vscode-arduino"
+  ]
+}
